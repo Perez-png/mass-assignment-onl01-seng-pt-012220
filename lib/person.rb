@@ -17,6 +17,9 @@ class Jose
   Jose.pant_width => "32"
 end
 
+class Susan
   
+end
+
   
 end
