@@ -4,7 +4,9 @@ class Jose
   
   Jose = Person.new(Jose_attributes)
   Jose.name
-  Jose.hair_color
+  Jose.hair_color => Brown
+  Jose.eye_color => Brown
+  Jose.height => 
   
   
 end
