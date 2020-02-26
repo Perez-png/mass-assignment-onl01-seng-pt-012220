@@ -6,7 +6,10 @@ class Jose
   Jose.name
   Jose.hair_color => Brown
   Jose.eye_color => Brown
-  Jose.height => 
+  Jose.height => Medium
+  Jose. weight => Heavy
+  Jose.handed => Right
+  Jose.complexion
   
   
 end
