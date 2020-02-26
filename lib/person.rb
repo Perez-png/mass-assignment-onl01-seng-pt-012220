@@ -35,10 +35,5 @@ class Susan
   Susan.pant_length => "14"
   Susan.pant_width => "14"
 end
-
-  
-  
-end
-
   
 end
