@@ -19,6 +19,8 @@ end
 
 class Susan
   
+  
+  
 end
 
   
