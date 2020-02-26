@@ -7,9 +7,11 @@ class Jose
   Jose.hair_color => Brown
   Jose.eye_color => Brown
   Jose.height => Medium
-  Jose. weight => Heavy
+  Jose.weight => Heavy
   Jose.handed => Right
-  Jose.complexion
+  Jose.complexion => Light
+  Jose.t-shirt_size = Medium
+  Jose.wrist_size = 
   
   
 end
