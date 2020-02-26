@@ -12,7 +12,8 @@ class Jose
   Jose.complexion => Light
   Jose.t-shirt_size => Medium
   Jose.wrist_size => Small
-  Jose.glove_size =>  
+  Jose.glove_size => Large
+  Jose.pant_length => 
   
   
 end
