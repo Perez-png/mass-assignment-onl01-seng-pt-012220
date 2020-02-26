@@ -14,7 +14,9 @@ class Jose
   Jose.wrist_size => "Small"
   Jose.glove_size => "Large"
   Jose.pant_length => "32"
-  
+  Jose.pant_width => "32"
+end
+
   
   
 end
