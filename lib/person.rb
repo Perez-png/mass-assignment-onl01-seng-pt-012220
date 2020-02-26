@@ -18,7 +18,24 @@ class Jose
 end
 
 class Susan
+  Susan_attributes = {name:
+  "Susan", hair_color: "Brown"}
   
+  Susan = Person.new(Jose_attributes)
+  Susan.name => "Jose"
+  Susan.hair_color => "Brown"
+  Susan.eye_color => "Brown"
+  Susan.height => "Medium"
+  Susan.weight => "Medium"
+  Susan.handed => "Right"
+  Susan.complexion => "Light"
+  Susan.t-shirt_size => "Medium"
+  Susan.wrist_size => "Small"
+  Susan.glove_size => "Small"
+  Susan.pant_length => "14"
+  Susan.pant_width => "14"
+end
+
   
   
 end
