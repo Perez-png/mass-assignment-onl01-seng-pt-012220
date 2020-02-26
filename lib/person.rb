@@ -10,8 +10,9 @@ class Jose
   Jose.weight => Heavy
   Jose.handed => Right
   Jose.complexion => Light
-  Jose.t-shirt_size = Medium
-  Jose.wrist_size = 
+  Jose.t-shirt_size => Medium
+  Jose.wrist_size => Small
+  Jose.glove_size =>  
   
   
 end
